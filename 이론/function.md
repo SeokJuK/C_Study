@@ -21,7 +21,7 @@
 # 제공 함수 예시
  알파벳 대문자를 소문자로 변환
 
-'''c
+```c
 #include <stdio.h>
 #include <ctype.h>
 
@@ -31,5 +31,4 @@ void main(){
     printf("%c \n, cMun);
     return 0;
 }
-
-'''
+```
