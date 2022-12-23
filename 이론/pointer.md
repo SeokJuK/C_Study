@@ -24,6 +24,7 @@ ex) int *pVar; == int* pVar;
 
 ex) int var -> 데이터의 그 값 자체
     int *pVar -> 데이터의 주소를 접근하여 가져온 값
+    *pVar = var
 
 # 포인터 선언
 
